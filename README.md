@@ -1,4 +1,4 @@
-# MicroPyramidTask1
+# sqlite3 CRUD
 
 ## This project contains 3 files:
 	1] example.db	(SQLite Database File)
